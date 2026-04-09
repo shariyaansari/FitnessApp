@@ -1,12 +1,12 @@
-# 🏋️‍♂️ AI Fitness & Calorie Tracker (Flutter + Firebase)
+# AI Fitness & Calorie Tracker (Flutter + Firebase)
 
 A modern, AI-powered fitness and calorie tracking mobile application built using Flutter and Firebase. This app helps users monitor their daily nutrition, workouts, and progress while providing intelligent recommendations to improve their lifestyle.
 
 ----
 
-## 🚀 Features
+## Features
 
-### 🔐 Authentication
+### Authentication
 
 * Google Sign-In using Firebase Authentication
 * Secure and seamless login experience
@@ -14,7 +14,7 @@ A modern, AI-powered fitness and calorie tracking mobile application built using
 
 ----
 
-### 🍽️ Calorie Tracking
+###  Calorie Tracking
 
 * Log daily meals
 * Track calories, protein, carbs, and fats
@@ -23,7 +23,7 @@ A modern, AI-powered fitness and calorie tracking mobile application built using
 
 ----
 
-### 🏋️ Workout Tracking
+###  Workout Tracking
 
 * Predefined workouts (gym, home, yoga)
 * Custom workout creation
@@ -32,7 +32,7 @@ A modern, AI-powered fitness and calorie tracking mobile application built using
 
 ----
 
-### 🤖 AI-Powered Features
+###  AI-Powered Features
 
 * Personalized diet recommendations
 * AI-generated workout plans
@@ -41,7 +41,7 @@ A modern, AI-powered fitness and calorie tracking mobile application built using
 
 ----
 
-### 📊 Dashboard & Analytics
+### Dashboard & Analytics
 
 * Daily, weekly, and monthly statistics
 * Calories intake vs burned charts
@@ -50,7 +50,7 @@ A modern, AI-powered fitness and calorie tracking mobile application built using
 
 ----
 
-### 🔔 Notifications & Engagement
+###  Notifications & Engagement
 
 * Meal reminders
 * Workout reminders
@@ -59,7 +59,7 @@ A modern, AI-powered fitness and calorie tracking mobile application built using
 
 ----
 
-## 🛠️ Tech Stack
+##  Tech Stack
 -### Frontend
 
 * Flutter (Dart)
@@ -77,7 +77,7 @@ A modern, AI-powered fitness and calorie tracking mobile application built using
 
 ----
 
-## 🧠 App Architecture
+##  App Architecture
 
 Flutter App
 -   ↓
@@ -89,7 +89,7 @@ Flutter App
 ```
 ----
 
-## 🗄️ Database Structure (Firestore)
+## Database Structure (Firestore)
 
 ```plaintext
 users/{userId}
@@ -113,7 +113,7 @@ users/{userId}
 
 ----
 
-## ⚙️ Key Functionalities
+##  Key Functionalities
 
 * BMR & TDEE calculation for personalized calorie goals
 * Real-time data sync with Firestore
@@ -122,7 +122,7 @@ users/{userId}
 
 ----
 
-## 🎨 UI/UX Highlights
+##  UI/UX Highlights
 
 * Clean and modern design
 * Dark & Light mode support
@@ -131,7 +131,7 @@ users/{userId}
 
 ----
 
-## 💰 Monetization (Optional)
+##  Monetization (Optional)
 
 * Freemium model:
 
@@ -140,7 +140,7 @@ users/{userId}
 
 ----
 
-## 📦 Installation
+##  Installation
 
 ```bash
 # Clone the repository
@@ -158,7 +158,7 @@ users/{userId}
 
 ----
 
-## 🔧 Firebase Setup
+##  Firebase Setup
 
 1. Create a Firebase project
 2. Enable Authentication (Phone / Google)
@@ -169,7 +169,7 @@ users/{userId}
 
 ----
 
-## 🧪 Future Enhancements
+##  Future Enhancements
 
 * Image-based food recognition
 * Wearable device integration (Google Fit / Apple Health)
@@ -179,7 +179,7 @@ users/{userId}
 
 ----
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome! Feel free to fork this repository and submit a pull request.
 
