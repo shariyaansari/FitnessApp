@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "830561589291",
+    "project_id": "android-app-a7b22",
+    "storage_bucket": "android-app-a7b22.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830561589291:android:f2259743ade0b5bbb9f26e",
+        "android_client_info": {
+          "package_name": "com.shari.fitnessapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "830561589291-avpndujl9f1ucch6b76167nmj3sh9tjd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shari.fitnessapp",
+            "certificate_hash": "74b2141fb75783e82770f8bf4612ec07f1f3cce3"
+          }
+        },
+        {
+          "client_id": "830561589291-esiet82qle61fah9v7iqovr96m7ggtrn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBE06vqUIlt5sEal6IBv9B-Z9p0MfR_IGg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "830561589291-esiet82qle61fah9v7iqovr96m7ggtrn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
